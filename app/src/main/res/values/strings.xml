@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HomeWork2</string>
+    <string name="url">Добавить URL</string>
+    <string name="sumbit">Set URL</string>
+    <string name="random">Get photo</string>
+    <string name="toast_null">Not valid URL</string>
+    <string name="toastPerformed"> Is successful</string>
+</resources>
